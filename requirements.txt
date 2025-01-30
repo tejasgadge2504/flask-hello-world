@@ -1,2 +1,6 @@
 Flask
+requests
+pdfplumber
+scikit-learn
+numpy
 Gunicorn
